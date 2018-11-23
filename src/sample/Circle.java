@@ -13,7 +13,7 @@ public class Circle {
   }
 
   public double getRadius() {
-    return radiuss;
+    return radius;
   }
 
   public void setRadius(double radius) {
