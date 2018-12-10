@@ -25,7 +25,7 @@ public class Circle {
   }
 
   public double getPerimeter() {
-    return 2 * Math.PI * radius;
+    return 2 * Math.PI * radiuss;
   }
 
 }
